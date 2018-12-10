@@ -87,7 +87,7 @@ p{
 	margin-right: 25%;
 }
 .btn {
-    background-color: DodgerBlue;
+    background-color: #2972EE;
     border: none;
     color: white;
     padding: 12px 30px;
@@ -100,7 +100,7 @@ p{
 	align-content: center;
 }
 .btn:hover{
-	color: DodgerBlue;
+	color: #2972EE;
     background-color: #fff;
-    border: 2px solid DodgerBlue;
+    border: 2px solid #2972EE;
 }
