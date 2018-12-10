@@ -39,6 +39,9 @@ a.active2:hover{
 a.active3:hover{
 	color: #FEB714;
 }
+a.active0:hover{
+	color: #FEB714;
+}
 .active0{
 	color: #FEB714;
 }
@@ -100,5 +103,13 @@ img:hover{
 	-webkit-transition: all .4s ease-in-out;
 	
 	background: #FEB714;
+}
+p{
+	padding-left: 50px;
+    padding-right: 50px;
+    font-family: "Open Sans";
+    color: #2972EE;
+    font-style: oblique;
+	font-size: 30px;
 }
 
